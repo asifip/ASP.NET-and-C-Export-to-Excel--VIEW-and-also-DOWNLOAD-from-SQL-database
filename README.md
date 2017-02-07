@@ -26,11 +26,10 @@ USE [SKL_KOM_INST]
 GO
 
 CREATE TABLE [dbo].[EmployeeDetails]
-(    [EmpName] [nchar](10) NULL,    
+(   [EmpName] [nchar](10) NULL,    
     [Mobile] [nchar](10) NULL,
     [PresentAddress] [nchar](10) NULL,
-    [Email] [nchar](10) NULL
-    
+    [Email] [nchar](10) NULL   
 ) 
 
 GO
