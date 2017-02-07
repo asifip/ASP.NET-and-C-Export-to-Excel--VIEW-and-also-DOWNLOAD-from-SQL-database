@@ -27,6 +27,7 @@ GO
 
 CREATE TABLE [dbo].[EmployeeDetails]
 (
+    
     [EmpName] [nchar](10) NULL,
     
     [Mobile] [nchar](10) NULL,
